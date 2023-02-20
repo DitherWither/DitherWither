@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a 10th grade student who is doing software development as a hobby
+
+I have learnt Vanilla Js, Svelte, Flask, and a bit of Django.
+
+I am currently learning iced toolkig for the Rust programming language.
+
 <!--
 **DitherWither/DitherWither** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
