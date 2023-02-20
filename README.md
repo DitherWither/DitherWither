@@ -6,6 +6,8 @@ I have learnt Vanilla Js, Svelte, Flask, and a bit of Django.
 
 I am currently learning iced toolkig for the Rust programming language.
 
+You can check out the stuff I made at my [homepage](https://DitherWither.github.io)
+
 <!--
 **DitherWither/DitherWither** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
