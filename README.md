@@ -2,9 +2,8 @@
 
 I am a 10th grade student who is doing software development as a hobby
 
-I have learnt Vanilla Js, Svelte, Flask, and a bit of Django.
+I have learnt Vanilla Js, Svelte, Flask, and a bit of Django and Axum.
 
-I am currently learning iced toolkig for the Rust programming language.
 
 You can check out the stuff I made at my [homepage](https://DitherWither.github.io)
 
