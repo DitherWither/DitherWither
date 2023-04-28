@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-I am a 10th grade student who is doing software development as a hobby
-
-I have learnt Vanilla Js, Svelte, Flask, and a bit of Django and Axum.
-
-
 You can check out the stuff I made at my [homepage](https://DitherWither.github.io)
 
 <!--
