@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can check out the stuff I made at my [homepage](https://DitherWither.github.io)
+You can check out the stuff I made at my [homepage](https://www.vardhanpatil.com)
 
 <!--
 **DitherWither/DitherWither** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
