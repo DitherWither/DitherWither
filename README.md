@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there, I'm dither 👋
 
-You can check out the stuff I made at my [homepage](https://www.vardhanpatil.com)
+- 🔭 I’m currently working on [Leapflow](https://leapflow.tech)
+- 🌱 I’m currently learning [Gleam](https://gleam.run/)
 
 <!--
 **DitherWither/DitherWither** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
