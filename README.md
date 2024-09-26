@@ -1,6 +1,6 @@
 ### Hi there, I'm dither 👋
 
-- 🔭 I’m currently working on [Leapflow](https://leapflow.tech)
+- 🔭 I’m currently working on [Skann](https://skann.me)
 - 🌱 I’m currently learning [Gleam](https://gleam.run/)
 
 <!--
